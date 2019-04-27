@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Neuston/ARCoreUtils/ARCoreUtils-Example.unity
+  isLoaded: 1
+  isActive: 1
